@@ -1,0 +1,13 @@
+Month,Warehouse Capacity (kg),Monthly Incoming (kg),Monthly Outgoing (kg),Risk Analysis,Sentiment
+January,10000,8500,8000,Medium,Neutral
+February,10000,9000,9500,High,Negative
+March,10000,4000,3000,Low,Positive
+April,10000,7000,6000,Medium,Neutral
+May,10000,9500,8500,High,Negative
+June,10000,2000,3000,Low,Positive
+July,10000,8000,7500,Medium,Neutral
+August,10000,9000,9500,High,Negative
+September,10000,3000,2500,Low,Positive
+October,10000,7000,6500,Medium,Neutral
+November,10000,6000,7000,High,Negative
+December,10000,5000,4000,Low,Positive
